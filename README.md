@@ -31,7 +31,7 @@ Repositório do lab  "Análise de Sentimentos com Language Studio no Azure AI" d
 
 ## Explorando texto com Language Studio 📄
 
-- Acesse o site [Language Studio](https://portal.azure.com/#home) para explorar recursos de texto;
+- Acesse o site [Azure](https://portal.azure.com/#home) para explorar recursos de texto;
 
 - Fazer o login na conta Microsoft Azure, caso ainda não esteja logado (ícone no canto superior direito);
 
@@ -81,9 +81,9 @@ Repositório do lab  "Análise de Sentimentos com Language Studio no Azure AI" d
 
 - Após finalizar esse laboratório e seguindo as instruções do próprio Azure, o recurso foi deletado para não gerar custos desnecessários;
 
-- Na página do [Portal Azure](https://portal.azure.com/#home), clique na aba "Todos os recursos";
+- Na página do [Azure](https://portal.azure.com/#home), clique na aba "Todos os recursos";
 
-- Após carregar a lsita de recursos, selecione os que não serão mais utilizados e em seguida o botão "Excluir" (última opção das abas disponíveis na página "Todos os recursos").
+- Após carregar a lista de recursos, selecione os que não serão mais utilizados e em seguida o botão "Excluir" (última opção das abas disponíveis na página "Todos os recursos").
 
 
 ## Referências
