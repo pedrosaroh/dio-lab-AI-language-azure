@@ -23,7 +23,7 @@ Repositório do lab  "Análise de Sentimentos com Language Studio no Azure AI" d
 
 - Escolha o idioma do áudio, que no exemplo dado (vide arquivo disponibilizado em [fundamentos-de-ai-mslearn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)) é Inglês (Estados Unidos);
 
-- Na parte "Escolher os arquivos de áudio", selecione o arquivo na opção "Procurar arquivos..." ou grave um áudio em "Gravar áudio com microfone". A medida que o upload vai sendo realizado, o texto referente ao arquivo vai aparecendo ao mesmo tempo (ou seja, em tempo real) em "Texto", na parte de "Resultados de teste";
+- Na parte "Escolher os arquivos de áudio", selecione o arquivo na opção "Procurar arquivos..." ou grave um áudio em "Gravar áudio com microfone". A medida que o upload vai sendo realizado, o texto referente ao arquivo vai aparecendo ao mesmo tempo (ou seja, em tempo real) em "Texto", na parte de ["Resultados de teste"](https://github.com/pedrosaroh/dio-lab-AI-language-azure/blob/main/images/Speech%20Studio.png);
 
 - Na mesma página, há a opção de "Próximas etapas", incluindo códigos de exemplos no GitHub;
 
@@ -61,7 +61,7 @@ Repositório do lab  "Análise de Sentimentos com Language Studio no Azure AI" d
 
 - Na tela seguinte, selecione o idioma do texto (no caso do exemplo é inglês) e o recurso a ser utilizado (nesse caso, o que foi criado no início das instruções);
 
-- A seguir, coloque o texto; nesse caso, foi utilizado o texto de exemplo disponibilizado em [mslearn-ai-fundamentals](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html);
+- A seguir, coloque o [texto](https://github.com/pedrosaroh/dio-lab-AI-language-azure/blob/main/images/Language%20Studio_TextoOriginal.png); nesse caso, foi utilizado o texto de exemplo disponibilizado em [mslearn-ai-fundamentals](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html);
 
 - Desça a tela e marque a opção "I acknowledge that runnig this demo..." e clique no botão "Run" logo abaixo;
 
@@ -69,13 +69,13 @@ Repositório do lab  "Análise de Sentimentos com Language Studio no Azure AI" d
 
 - No caso do exemplo, a análise resultou em:
 
--Análise de sentimento: 100% negativo, sendo avaliado pelas sentenças identificadas;
+-[Análise de sentimento](https://github.com/pedrosaroh/dio-lab-AI-language-azure/blob/main/images/Language%20Studio_Analise%20geral.png): 100% negativo, sendo avaliado pelas sentenças identificadas;
 
--Sentença 1: Opinião 100% negativa, com 99,00% sobre o hotel e 99,00% sobre o serviço;
+-[Sentença 1](https://github.com/pedrosaroh/dio-lab-AI-language-azure/blob/main/images/Language%20Studio_Sentenca1.png): Opinião 100% negativa, com 99,00% sobre o hotel e 99,00% sobre o serviço;
 
--Sentença 2: Opinião 100% negativa, sobre a internet;
+-[Sentença 2](https://github.com/pedrosaroh/dio-lab-AI-language-azure/blob/main/images/Language%20Studio_Sentenca2.png): Opinião 100% negativa, sobre a internet;
 
--Sentença 3: Opinião 70% neutra e 29% negativa, sem ter conseguido identificar o alvo da avaliação.
+-[Sentença 3](https://github.com/pedrosaroh/dio-lab-AI-language-azure/blob/main/images/Language%20Studio_Sentenca3.png): Opinião 70% neutra e 29% negativa, sem ter conseguido identificar o alvo da avaliação.
 
 - A janela possui a opção de próximos passos "Next steps", porém não foi utilizada nesse caso;
 
